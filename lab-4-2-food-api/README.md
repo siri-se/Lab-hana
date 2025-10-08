@@ -14,23 +14,20 @@ Lab นี้เป็นการสร้าง RESTful API สำหรับ
   <img width="1010" height="883" alt="image" src="https://github.com/user-attachments/assets/ec67700a-8159-428a-90d6-e9fa8756b6bb" />
 
   -หมวดแกง
-  
   <img width="933" height="612" alt="image" src="https://github.com/user-attachments/assets/0c4a022b-7c73-475d-a020-3fbb10662289" />
 
   -อาหารมังสวิรัติ
-
   <img width="960" height="764" alt="image" src="https://github.com/user-attachments/assets/d2317394-fac7-4af0-88a5-d553b3e6ccf5" />
 
   -เมนู ID 1
-  
   <img width="818" height="687" alt="image" src="https://github.com/user-attachments/assets/316cd7f3-9c86-4794-ac25-df595c3ed56e" />
 
   -สถิติ
-  
   <img width="906" height="296" alt="image" src="https://github.com/user-attachments/assets/33274406-6bad-4040-a58b-5c8a5afde887" />
 
 
 
 
   
+
 
